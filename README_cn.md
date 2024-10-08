@@ -1,124 +1,81 @@
 > [English](./README.md) | [中文](./README_cn.md)
 
-## 作者：AllTick
-## 联系我们
-Email: support@alltick.co
+# 欢迎来到 AllTick 外汇数据天堂！🌍💰
 
-Skype: [https://join.skype.com/invite/xokTc695huNu](https://join.skype.com/invite/xokTc695huNu)
+准备好征服 **实时外汇数据** 世界了吗？我们提供 **外汇API**，包括实时 **外汇逐笔数据API**、**外汇K线数据API** 和 **贵金属市场数据API**。无论您在交易欧元/美元、日元/美元，还是跟踪黄金和白银市场，我们的数据让您始终快人一步！
 
-Telegram: [https://t.me/alltick001](https://t.me/alltick001)
+## 官方网站
+🚀 [https://alltick.co](https://alltick.co/)
 
-## 项目名称：AllTick Real-time Quotation APIs
+---
 
-# 实时金融市场数据API, 实时外汇数据API, 实时股票数据API, 实时加密货币数据API, 实时商品数据API服务, 实时Tick数据, 逐笔报价, 数据接入解决方案,实时股票,实时美股,实时港股
+## 为什么选择AllTick的外汇API？
 
-简单好用易上手的免费开源股票API、港股API、美股API、沪深股票API、A股API、外汇API、商品贵金属API、加密货币API等实时行情数据
+我们拥有您需要的一切：免费、开源、简单易用！使用我们的 **实时外汇行情API**，您可以：
 
-## 官网
-[https://alltick.co](https://alltick.co)
+- **获取实时外汇市场数据** — 轻松掌握最新汇率。
+- **获取外汇K线数据** — 完美支持您的技术分析需求。
+- **探索贵金属行情** — 黄金、白银等贵金属行情，助您多样化投资策略。
 
-## 功能特性：
+AllTick的 **外汇API** 适用于各类用户：交易员、开发者、分析师，甚至对市场动态好奇的新手。并且，一切功能 **免费体验**！
 
-- 免费开源
+---
 
-- 获取港股实时行情API
+## 如何开始
 
-- 获取港股实时10档盘口API
+准备好集成终极外汇数据体验？我们的集成指南为您提供全方位支持。
+- **[外汇集成指南](./access_guide.md)**
 
-- 获取港股K线数据API
-
-- 获取美股实时行情API
-
-- 获取美股实时一档盘口API
-
-- 获取美股K线数据API
-
-- 获取沪深A股实时行情API
-
-- 获取沪深A股实时5档盘口API
-
-- 获取沪深A股K线数据API
-
-- 获取加密货币实时行情API
-
-- 获取加密货币实时多档盘口API
-
-- 获取加密货币K线数据API
-
-- 获取外汇实时行情API
-
-- 获取外汇实时5档盘口API
-
-- 获取外汇K线数据API
-
-- 获取贵金属实时行情API
-
-- 获取贵金属实时5档盘口API
-
-- 获取贵金属K线数据API
-
-  
-
-## 接入指南
-- [接入指南](./access_guide_cn.md)
 ## 接口介绍
-### 错误码说明
-- [错误码说明](./error_code_description_cn.md)
-### 产品code列表
-- [产品code列表-A股](./product_code_list_A_stock_cn.md)
-- [产品code列表-港股](./product_code_list_HK_stock_cn.md)
-- [产品code列表-加密货币(数字币)](./product_code_list_cryptocurrency_cn.md)
-- [产品code列表-美股](./product_code_list_US_stock_cn.md)
-- [产品code列表-商品(贵金属)](./product_code_list_commodities_gold_cn.md)
-- [产品code列表-外汇](./product_code_list_forex_cn.md)
+*我们为您提供最实用的工具，让您的外汇数据体验顺畅无比。*
 
-### http接口
-- [行情API地址说明](./http_interface/api_address_description_cn.md)
-- [接口限制](./http_interface/interface_limitation_cn.md)
-- [通用标准头](./http_interface/common_standard_header_cn.md)
-- [获取最新成交报价查询](./http_interface/latest_transaction_price_query_cn.md)
-- [最新盘口报价查询](./http_interface/latest_order_book_price_query_cn.md)
-- [K线查询](./http_interface/kline_query_cn.md)
-- [批量查询产品最新K线](./http_interface/batch_kline_query_cn.md)
+### 产品代码列表 📈
+涵盖所有主要外汇货币对，尽在其中：
+- **[外汇产品代码列表](./product_code_list_forex.md)**
 
-### websocket接口
-- [行情API地址说明](./websocket_interface/api_address_description_cn.md)
-- [接口限制](./websocket_interface/interface_limitation_cn.md)
-- [通用标准头](./websocket_interface/common_standard_header_cn.md)
-- [心跳](./websocket_interface/heartbeat_cn.md)
-- [实时成交报价订阅](./websocket_interface/realtime_transaction_quote_subscription_cn.md)
-- [实时盘口报价订阅](./websocket_interface/realtime_order_book_quote_subscription_cn.md)
-- [取消实时报价订阅](./websocket_interface/cancel_realtime_quote_subscription_cn.md)
+### HTTP接口 🌐
+想要即需即得的数据？我们的HTTP端点为您提供快速便捷的访问：
+- **[API地址描述](./http_interface/api_address_description.md)**
+- **[最新外汇报价查询](./http_interface/latest_transaction_price_query.md)** — 获取最新汇率。
+- **[最新外汇盘口数据查询](./http_interface/latest_order_book_price_query.md)** — 掌握多层盘口数据。
+- **[外汇K线数据查询](./http_interface/kline_query.md)** — 满足所有蜡烛图需求！
 
-## 免费token获取
-- [token申请](./token_application_cn.md)
+### WebSocket接口 🚀
+如果需要实时数据，我们的WebSocket接口为您提供即时更新：
+- **[WebSocket API地址描述](./websocket_interface/api_address_description.md)**
+- **[实时外汇行情订阅](./websocket_interface/realtime_transaction_quote_subscription.md)** — 实时追踪所有外汇价格变化。
+- **[实时外汇盘口数据订阅](./websocket_interface/realtime_order_book_quote_subscription.md)** — 获取实时订单簿数据，如专业般操作！
 
-## 使用示例,超简单上手
-### php:
+---
 
-- [http请求示例](./example/php/php_http_curl.php)
-- [websocket请求示例](./example/php/php_websocket_workerman.php)
+## 获取免费Token
+无需等待！立即注册获取免费Token，立刻体验实时外汇数据！  
+- **[Token申请指南](./token_application.md)**
 
-### python:
+---
 
-- [http请求示例](./example/python/http_python_example.py)
-- [websocket请求示例](./example/python/websocket_python_example.py)
+## 使用示例，轻松上手
 
-### go:
-- [http请求示例](./example/go/http_go_example.go)
-- [websocket请求示例](./example/go/websocket_go_example.go)
+集成我们的外汇API从未如此简单。选择您熟悉的编程语言，马上行动吧！
 
-### java:
-- [http请求示例](./example/java/HttpJavaExample.java)
-- [websocket请求示例](./example/java/WebSocketJavaExample.java)
+### Python示例 🐍:
+- **[HTTP请求示例](./Examples/Python/http_python_example.py)** — 几行代码即可连接到外汇数据。
+- **[WebSocket示例](./Examples/Python/websocket_python_example.py)** — Python即时实时数据推送！
 
+### Java示例 ☕:
+- **[HTTP请求示例](./Examples/Java/HttpJavaExample.java)** — 将外汇数据引入Java应用。
+- **[WebSocket示例](./Examples/Java/WebSocketJavaExample.java)** — 实时更新，尽在掌握。
+
+---
 
 ## 联系我们
-Email: support@alltick.co
+有疑问？需要支持？想聊聊外汇？我们乐意帮您解答！
+- **Telegram**: [在Telegram上交流](https://t.me/alltick001)
+- **Skype**: [加入我们的Skype](https://join.skype.com/invite/xokTc695huNu)  
+- **Email**: support@alltick.co  
 
-Skype: [https://join.skype.com/invite/xokTc695huNu](https://join.skype.com/invite/xokTc695huNu)
 
-Telegram: [https://t.me/alltick001](https://t.me/alltick001)
 
-## 其他作品
-官网:[https://alltick.co](https://alltick.co)
+加入AllTick，我们致力于为全球交易社区提供**最全面的实时外汇数据API**。我们的API简单易用，数据每秒更新，始终可靠。AllTick的**外汇数据API**助您优化交易策略、把握市场动态，为您的交易体验保驾护航！
+
+祝您交易愉快！🎉
