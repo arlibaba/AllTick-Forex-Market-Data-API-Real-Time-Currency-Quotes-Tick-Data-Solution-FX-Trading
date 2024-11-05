@@ -6,7 +6,7 @@ Are you ready to conquer the world of **real-time forex data**? Look no further!
 
 ## Official Website
 🚀 [https://alltick.co](https://alltick.co/)
-🚀 [https://alltick.co](https://alltick.io/) for China Mainland
+🚀 [https://alltick.io](https://alltick.io/) for China Mainland
 
 ---
 
