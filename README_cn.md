@@ -6,6 +6,7 @@
 
 ## 官方网站
 🚀 [https://alltick.co](https://alltick.co/)
+🚀 [https://alltick.io](https://alltick.co/) 中国大陆
 
 ---
 
